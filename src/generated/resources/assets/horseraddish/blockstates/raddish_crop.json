@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "horseraddish:block/raddish_crop_stage0"
+    },
+    "age=1": {
+      "model": "horseraddish:block/raddish_crop_stage1"
+    },
+    "age=2": {
+      "model": "horseraddish:block/raddish_crop_stage2"
+    },
+    "age=3": {
+      "model": "horseraddish:block/raddish_crop_stage3"
+    }
+  }
+}

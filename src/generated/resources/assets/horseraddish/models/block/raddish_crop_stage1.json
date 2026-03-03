@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "horseraddish:block/raddish_crop_stage1"
+  }
+}
